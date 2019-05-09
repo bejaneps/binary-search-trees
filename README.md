@@ -1,2 +1,4 @@
-# binary-search-trees
-Binary search trees implemented in C++
+# Binary search trees
+------------------------------------
+
+Binary search trees and several other algorithms implemented in C++, for more details check the source code.
